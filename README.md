@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Randrianado</h1>
 <h3 align="center">MERN STACK✨</h3>
 
-- 🌱 I’m currently learning **Mongodb,Express,Node,React**
+- 🌱 I’m currently learning **Mongodb,Express,Node,React*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
